@@ -1,0 +1,1 @@
+tellraw @s [{"text": "[", "color": "white"}, {"text": "TMS", "color": "dark_aqua"}, {"text": "] "}, {"text": "> ", "color": "yellow"}, {"text": "Orientation", "color": "gray"}, {"text": ": ", "color": "yellow"}, {"text": "Est", "color": "green"}]
